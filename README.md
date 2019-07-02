@@ -1,7 +1,7 @@
 _Übungsaufgabe zur Veranstaltung [Objektorientiertes Programmieren](https://hsro-wif-oop.github.io) im [Bachelorstudiengang Wirtschaftsinformatik](https://www.th-rosenheim.de/technik/informatik-mathematik/wirtschaftsinformatik-bachelor/) an der [Hochschule Rosenheim](http://www.th-rosenheim.de)._
 
 
-# Übung 11: Threads und das Erzeuger-Verbraucher-Problem
+# Übung 12: Threads und das Erzeuger-Verbraucher-Problem
 
 In einem Restaurant arbeiten *n* Köche und *m* Bedienungen.
 Die Köche kochen was das Zeug hält und stellen die fertigen Speisen in eine Durchreiche.
