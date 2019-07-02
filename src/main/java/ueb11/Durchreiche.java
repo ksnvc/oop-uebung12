@@ -1,6 +1,8 @@
 package ueb11;
 
 public interface Durchreiche<T> {
+
+
 	/**
 	 * Etwas aus der Durchreiche nehmen.
 	 * @return
